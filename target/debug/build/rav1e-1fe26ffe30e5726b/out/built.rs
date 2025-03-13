@@ -57,7 +57,7 @@ pub static RUSTDOC: &str = "/home/jamaas/.rustup/toolchains/stable-x86_64-unknow
 pub static OPT_LEVEL: &str = "0";
 #[doc=r#"The parallelism that was specified during compilation."#]
 #[allow(dead_code)]
-pub static NUM_JOBS: u32 = 8;
+pub static NUM_JOBS: u32 = 40;
 #[doc=r#"Value of DEBUG for the profile used during compilation."#]
 #[allow(dead_code)]
 pub static DEBUG: bool = true;
